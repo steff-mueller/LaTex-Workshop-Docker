@@ -1,3 +1,7 @@
+# Attention: I no longer recommend this method. Do use Docker with VS Code Remote Containers instead, as mentioned in the wiki: https://github.com/James-Yu/LaTeX-Workshop/wiki/Install#using-docker
+
+---
+
 Provides Docker shims for LaTeX binaries used by https://github.com/James-Yu/LaTeX-Workshop
 
 Motivation: 
